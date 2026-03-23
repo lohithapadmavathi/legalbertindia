@@ -42,7 +42,7 @@ PROJECT1/
 │
 │── precedents.db           # Legal precedents database
 │── *.json                  # Training & processed datasets
-│── *.ipynb                 # Experiment notebooks
+│── *.ipynb                 # Experiment notebooks```
 
 
 **Installation & Setup**
