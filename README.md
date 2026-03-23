@@ -24,7 +24,8 @@ Database: SQLite (precedents.db)
 Concepts: NLP, OCR, Information Extraction, ML Pipelines
 
 
-**Project Structure**
+##**Project Structure**
+```text
 PROJECT1/
 │── legal_bert_clause_classifier/
 │── legal_bert_ner_finetuned/
