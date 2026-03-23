@@ -56,6 +56,7 @@ pip install -r requirements.txt
 
 
 **Pipeline Flow**
+```
 OCR Extraction → Extract text from document/image
 Language Detection → Identify document language
 Normalization → Clean and standardize legal text
@@ -66,6 +67,7 @@ Jurisdiction Mapping → Detect legal region
 Precedent Engine → Fetch similar past cases
 Risk Assessment → Predict legal risk
 Summarization → Generate concise output
+```
 
 
 **Future Improvements**
