@@ -14,9 +14,9 @@ An end-to-end NLP pipeline for analyzing legal documents using OCR, transformer-
  Precedent retrieval using a database
  ML-based legal risk assessment
  Automated case/document summarization
+
+ 
 **Tech Stack**
-
-
 Language: Python
 Libraries: NumPy, PIL, pytesseract
 ML Models: BERT (fine-tuned for Legal NER & Clause Classification)
@@ -24,8 +24,8 @@ Database: SQLite (precedents.db)
 Concepts: NLP, OCR, Information Extraction, ML Pipelines
 
 
-##**Project Structure**
-```text
+**Project Structure**
+```
 PROJECT1/
 │── legal_bert_clause_classifier/
 │── legal_bert_ner_finetuned/
@@ -43,7 +43,7 @@ PROJECT1/
 │── precedents.db           # Legal precedents database
 │── *.json                  # Training & processed datasets
 │── *.ipynb                 # Experiment notebooks
-```text
+```
 
 
 **Installation & Setup**
